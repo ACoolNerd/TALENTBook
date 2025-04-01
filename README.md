@@ -1,5 +1,3 @@
-Awesome! Since you now have GitHub access, I'll provide a **README.md** file along with other essential documents like `.gitignore`, `LICENSE`, and a sample `manifest.json`.  
-
 ### 📥 **Downloadable ZIP File**  
 Since GitHub doesn’t allow direct file uploads through the web interface, follow these steps to download all required files:  
 
